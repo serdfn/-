@@ -10,6 +10,6 @@
 ## 目录
 
 [安装方案](cha1.md)
-[]原系统自带
-[]Cts套件
-[]Shizuku安装
+[原系统自带](cha2.md)
+[Cts套件安装方案](cha3.md)
+[Shizuku安装方案](cha.md)
