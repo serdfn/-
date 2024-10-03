@@ -33,3 +33,8 @@
 
 问：realmeUI可用吗？
 答：可用，因为这个是ColorOS换皮系统
+
+
+[返回安装目录](cha1.md)
+[返回上一级（原始系统安装）](cha2.md)
+[Shizuku安装方案](cha.md)
