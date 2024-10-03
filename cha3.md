@@ -39,4 +39,4 @@
 
 [返回上一级（原始系统安装）](cha2.md)
 
-[Shizuku安装方案](cha.md)
+[Shizuku安装方案](cha4)
