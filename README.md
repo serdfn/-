@@ -9,6 +9,6 @@
 
 ## 目录
 
-[](part1/README.md)
-   [写作很棒](part1/cha1.md)
-   [GitBook很酷](part1/cha2.md)
+[系统原始安装](part1/cha1.md)
+[Cts](part1/cha2.md)
+[Shizuku](part1/cha3.md)
