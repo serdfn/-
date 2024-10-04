@@ -15,4 +15,4 @@
 
 [下一个：Cts套件安装方案](cha3.md)
 
-[Shizuku安装方案](cha.md)
+[Shizuku安装方案](cha4.md)
