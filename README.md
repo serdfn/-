@@ -13,7 +13,7 @@
 
 > [!TIP]
 > 本页面全章节有翻页互动，以下图
-![Image Git图床问题，外链图床](https://www.helloimg.com/i/2024/10/04/66ff54ed6502c.jpg)
+![Image Git图床问题，外链图床](https://www.helloimg.com/i/2024/10/04/66ff54ed6502c.jpg)  由于GitHub站内图床经常抽风，所以已挂载外链图床
 
 
 [安装方案](cha1.md)
