@@ -13,7 +13,7 @@
 
 > [!TIP]
 > 本页面全章节有翻页互动，以下图
-![Image](Screenshots/Screenshot_2024-10-03-20-31-56-37_320a9a695de7cdce83ed5281148d6f19.jpg)   图床载不了的点击这个链接能看到
+![Image](Screenshots/Screenshot_2024-10-03-20-31-56-37_320a9a695de7cdce83ed5281148d6f19.jpg)   Git图床会不稳定，图载不了的点图标能看到，不行的话检查网络或稍后再试
 
 [安装方案](cha1.md)
 
