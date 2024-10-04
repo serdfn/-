@@ -6,7 +6,7 @@
 
 安装软件后，首次使用或中间下方分别有三种安装方案
 
-![Image Git图床问题，外链图床](https://www.helloimg.com/i/2024/10/04/66ff54ed6502c.jpg)
+![Image text](Screenshots/Screenshot_2024-10-03-11-41-28-61_75943dae5367f8f3ee9621208cf5c853.jpg)
 
 不同的安装方案有不同的步骤、以及上手难度等，分别有系统原始安装，Cts套件和Shizuku等三种方案，使用此软件方案时，按照不同机型，实际情况等选择可适配的方案
 
