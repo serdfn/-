@@ -13,6 +13,9 @@
 
 > [!TIP]
 > 本页面全章节有翻页互动，以下图
+[Image text]
+(https://www.helloimg.com/i/2024/10/04/66ff54ed6502c.jpg)
+
 
 [安装方案](cha1.md)
 
