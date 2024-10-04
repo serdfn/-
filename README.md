@@ -13,7 +13,7 @@
 
 > [!TIP]
 > 本页面全章节有翻页互动，以下图
-![Image](Screenshots/Screenshot_2024-10-03-11-41-28-61_75943dae5367f8f3ee9621208cf5c853.jpg)
+![Image](Screenshots/Screenshot_2024-10-03-20-31-56-37_320a9a695de7cdce83ed5281148d6f19.jpg)
 
 [安装方案](cha1.md)
 
