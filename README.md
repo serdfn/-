@@ -14,8 +14,7 @@
 > [!TIP]
 > 本页面全章节有翻页互动，以下图
 [Image text]!
-
-(https://www.helloimg.com/i/2024/10/04/66ff54ed6502c.jpg)
+(https://raw.githubusercontent.com/serdfn/XAPK/refs/heads/main/Screenshots/Screenshot_2024-10-03-20-31-56-37_320a9a695de7cdce83ed5281148d6f19.jpg)
 
 
 [安装方案](cha1.md)
