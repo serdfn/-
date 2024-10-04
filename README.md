@@ -13,7 +13,7 @@
 
 > [!TIP]
 > 本页面全章节有翻页互动，以下图
-![Image text](Screenshots/Screenshot_2024-10-03-20-31-56-37_320a9a695de7cdce83ed5281148d6f19.jpg)
+![Image Git图床问题，外链图床](Screenshots/Screenshot_2024-10-03-20-31-56-37_320a9a695de7cdce83ed5281148d6f19.jpg)
 
 
 [安装方案](cha1.md)
