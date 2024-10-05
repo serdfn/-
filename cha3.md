@@ -34,7 +34,10 @@
 
 
 问：realmeUI可用吗？
+
 答：可用，因为这个是ColorOS换皮系统
+
+vivo目前缺乏实际案例
 
 [返回首页](README.md)
 
