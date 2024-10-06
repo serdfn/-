@@ -39,10 +39,11 @@
 
 vivo目前缺乏实际案例
 
+
+[←返回上一页](cha2.md)
+
+[→下一个：Shizuku安装方案](cha4.md)
+
 [返回首页](README.md)
 
 [返回安装方案说明](cha1.md)
-
-[返回上一级（原始系统安装）](cha2.md)
-
-[下一个：Shizuku安装方案](cha4.md)
