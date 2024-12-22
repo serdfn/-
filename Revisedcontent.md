@@ -24,5 +24,5 @@
 
 ### [Shizuku安装方案](cha4.md)修改内容以下
 
-在Shizuku方案IMPORTANT重要通知部分原文“```由于ColorOS从13版本以及更早版本开始，限制了ADB权限及相关工具的安装方案（Shizuku在内），如果是OPPO系统13版本以上的请使用cts方案
-```”
+在Shizuku方案IMPORTANT重要通知部分原文```由于ColorOS从13版本以及更早版本开始，限制了ADB权限及相关工具的安装方案（Shizuku在内），如果是OPPO系统13版本以上的请使用cts方案
+```
