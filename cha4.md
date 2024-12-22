@@ -4,7 +4,7 @@
 > 该方法对新手操作及激活难度很高，使用此方法前请阅读Shizuku软件官网用户手册
 
 > [!IMPORTANT]
-> 由于ColorOS从13版本以及更早版本开始，限制了ADB权限及相关工具的安装方案（Shizuku在内），如果是OPPO系统13版本以上的请使用cts方案
+> 由于ColorOS从11版本以上开始，限制了ADB权限及相关工具的安装方案（Shizuku在内），如果是OPPO系统13版本以上的请使用cts方案
 
 
 Shizuku安装法是一种特殊安装法，适用系统版本低无法使用cts套件方法以及绝大多数手机型号，并且无需重启，但由于Shizuku操作以及激活很麻烦，在使用此方案需阅读[Shizuku用户手册](https://shizuku.rikka.app/zh-hans/guide/setup/)
